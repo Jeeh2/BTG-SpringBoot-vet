@@ -6,10 +6,11 @@ Projeto Aplicativo para Clinica veterinária
 ![image](https://github.com/Jeeh2/BTG-SpringBoot-vet/assets/103466154/b40478b4-ba2b-4ee1-a53a-23754e18e10d)
 
 O projeto ainda precisa de melhorias, algumas melhorias estão nas regras que montei
-#Me organizei dessa forma
+#
+Me organizei dessa forma
 ![image](https://github.com/Jeeh2/BTG-SpringBoot-vet/assets/103466154/b4cc000e-81ce-4761-b874-d47d94e57bbf)
 
-#Algumas regras:
+Algumas regras:
 #
 ![image](https://github.com/Jeeh2/BTG-SpringBoot-vet/assets/103466154/b76e8050-f064-4ea9-ae98-9e0e1f12359c)
 
